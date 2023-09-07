@@ -1,5 +1,5 @@
 <?php
-
+#[\AllowDynamicProperties]
 class erLhcoreClassGoogleSuggestValidator
 {
     public static function validateSuggestItem(erLhcoreClassModelGoogleSuggestItem & $item)
